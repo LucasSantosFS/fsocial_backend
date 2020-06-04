@@ -34,5 +34,5 @@ See also the list of [contributors](#) who participated in this project.
 
 ## Acknowledgments
 
-* xxxxxxxxxxxxxxxxxxxx
+* xxxxxxxxxxxxxxxxxxxxx
 
