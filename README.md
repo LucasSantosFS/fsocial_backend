@@ -21,6 +21,7 @@ Examples under development
 ## Authors
 
 * **Maycon Douglas contact@maycondss.com** - *Developer* - [Maycon's profile](https://www.linkedin.com/in/maycondss/)
+* **Esdras Motta contact@maycondss.com** - *Developer* - [Maycon's profile](#)
 
 See also the list of [contributors](#) who participated in this project.
 
