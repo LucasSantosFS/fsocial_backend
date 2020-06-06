@@ -23,6 +23,7 @@ Examples under development
 * **Maycon Douglas contact@maycondss.com** - *Developer* - [Maycon's profile](https://www.linkedin.com/in/maycondss/)
 * **Esdras Motta contact@maycondss.com** - *Developer* - [Maycon's profile](#)
 * **Felipe Reis reis.felipejr@gmail.com** - *Developer* - [Felipe's profile](https://www.linkedin.com/in/reisjr-felipe/)
+* **Lucas Daniel lucasd.ss@outlook.com** - *Developer* - [Lucas's profile](https://www.linkedin.com/in/lucasdanielss/)
 
 See also the list of [contributors](#) who participated in this project.
 
